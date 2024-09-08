@@ -1,0 +1,21 @@
+.section-items {
+    padding: 60px 28px;
+    background-color: black;
+    border-radius: 30px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0,
+        0,
+        0,
+        0.7)), url(../img/img_new.jpg);
+}
+
+.paragraf-text {
+    color: var(--background);
+    margin-bottom: 28px;
+}
+
+.link {
+    color: var(--background);
+    padding: 15px 44px;
+    border: 1px solid rgba(251, 251, 251, 0.15);
+    border-radius: 16px;
+}
